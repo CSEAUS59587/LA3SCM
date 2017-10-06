@@ -10,6 +10,10 @@ int addFeatureB(){
 	cout<<"FeatureB\n";
 }
 
+int addFeatureA(){
+	cout<<"FeatureA\n";
+}
+
 
 
 //double *sum = new double[no_of_threads], *sum_2 = new double [no_of_threads], *max = new double [no_of_threads], *min = new double [no_of_threads];
