@@ -5,6 +5,13 @@
 #include<math.h>
 using namespace std;
 
+const int VARIABLE_MADE_BY_MEMBER_B = 50;
+int addFeatureB(){
+	cout<<"FeatureB\n";
+}
+
+
+
 //double *sum = new double[no_of_threads], *sum_2 = new double [no_of_threads], *max = new double [no_of_threads], *min = new double [no_of_threads];
 double *sum, *sum_2, *maximum, *minimum;
 
